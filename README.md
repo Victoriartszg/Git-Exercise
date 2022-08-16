@@ -1,4 +1,4 @@
-Git-Exercise
+# Git-Exercise
 
 Here are the Git exercise instructions :
 Create a folder.
