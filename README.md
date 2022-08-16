@@ -8,7 +8,7 @@ Make changes to the readme file.
 Add the changes to the read me. Check the status of the repository. Then, 
 leave a commit message and check the status once more.
 What command should you use to check the status of the repository? Write 
-your answer in this readme.
+your answer in this readme.  => git status
 Make more changes to the readme file. Use the shorthand command to add and 
 commit changes.
 Check the history of the repository.
